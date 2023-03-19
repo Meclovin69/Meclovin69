@@ -1,4 +1,4 @@
-### Hello i'm Davi Almeida student programming
+###
 
 -Crescendo e me desenvolvendo com: Python, HTML, CSS, Javascript e Java
 
