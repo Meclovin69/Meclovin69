@@ -1,5 +1,5 @@
 ###
-
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 -Crescendo e me desenvolvendo com: Python, HTML, CSS, Javascript e Java
 
 <div style="display: inline-block;">
@@ -21,6 +21,6 @@
 
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 
 
