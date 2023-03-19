@@ -3,7 +3,6 @@
 
 <div style="display: inline-block;">
   
-  <a href="https://github.com/Meclovin69"/>
 
   <img align="center" alt="Davi-py"  width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img align="center" alt="davi-ht" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
