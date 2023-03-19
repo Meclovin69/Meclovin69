@@ -12,7 +12,6 @@
   <img align="center" alt="davi-js" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="davi-js" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
-  ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
   
   
 <!-- <a href="https://www.linkedin.com/in/davi-almeida-b0335024a/"> <br>
