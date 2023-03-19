@@ -12,6 +12,7 @@
   <img align="center" alt="davi-js" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="davi-js" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
+  [![Generate Datas](https://github.com/Meclovin69/Meclovin69/actions/workflows/main.yml/badge.svg)](https://github.com/Meclovin69/Meclovin69/actions/workflows/main.yml)
   
   
 <!-- <a href="https://www.linkedin.com/in/davi-almeida-b0335024a/"> <br>
