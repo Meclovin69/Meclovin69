@@ -1,5 +1,5 @@
 ###
--Crescendo e me desenvolvendo com: Python, HTML, CSS, Javascript e Java
+-Crescendo e me desenvolvendo no momento estou aprendendo: Python, HTML, CSS, Javascript e Java
 
 <div style="display: inline-block;">
   
