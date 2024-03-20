@@ -1,5 +1,5 @@
 ###
--No momento estou aprendendo: Python, HTML, CSS e Javascript
+
 
 <div style="display: inline-block;">
   
